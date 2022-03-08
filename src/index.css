@@ -68,3 +68,16 @@ header {
 .warning-invisible {
   display: none;
 }
+
+.card-body .label {
+  color: blue;
+}
+.card-body textarea {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 12px;
+}
+.card-body input {
+  width: 100%;
+  margin-bottom: 12px;
+}
